@@ -7,7 +7,7 @@ I am excited to share my first project, the Netflix Recommendation Model, with y
 
 The reason I am posting it now is to track my progress and see how far I have come. It is also a great opportunity to receive feedback and suggestions on how I can improve my model.
 
-The Netflix Recommendation Model uses basic libraries and techniques to provide quick and simple movie recommendations on individual Geners basics for Netflix users. The model is built using Python, a popular language in the data science community, and utilizes data science concepts such as collaborative filtering and content-based recommendations.
+The Netflix Recommendation Model uses basic libraries and techniques to provide quick and simple movie recommendations on individual Geners basics for Netflix users. Have used Scikit-Lerab Library and coisne while building this model. The model is built using Python, a popular language in the data science community, and utilizes data science concepts such as collaborative filtering and content-based recommendations.
 
 Netflix is known for its sophisticated recommendation system, which is a key factor in the company's success. The Netflix Recommendation Model aims to replicate some of the basic principles behind the Netflix recommendation system. By using this model, I hope to gain a deeper understanding of how recommendation systems work and how I can improve my skills in this field.
 
