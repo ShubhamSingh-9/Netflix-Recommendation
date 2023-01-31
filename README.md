@@ -13,3 +13,4 @@ Netflix is known for its sophisticated recommendation system, which is a key fac
 I hope you find my project interesting and I am looking forward to your feedback. I plan on writing a great blog post to explain my model in more detail and to provide additional resources for anyone interested in learning more about recommendation systems.
 
 Thank you for taking the time to check out my project. I can't wait to see where this journey takes me.
+![image](https://user-images.githubusercontent.com/111279439/215624192-7535f8f8-b301-492b-9ca6-97703d7a4673.png)
