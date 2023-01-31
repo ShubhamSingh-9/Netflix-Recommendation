@@ -14,6 +14,6 @@ Thank you for taking the time to check out my project. I can't wait to see where
 
 As said it smy first project and will keep updating the Project as and when I upskill my knowledge.
 
-Below is the Image from the Movie Recommanded Site that was hsoted locally.
+Below is the Image from the Movie Recommanded Site that was hosted locally.
 
 ![image](https://user-images.githubusercontent.com/111279439/215624323-adced03b-8750-431f-9f5d-6a6a768bcb85.png)
