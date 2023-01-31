@@ -1,3 +1,6 @@
+![ie_53292-1](https://user-images.githubusercontent.com/111279439/215781364-41b34534-36c8-4a4f-9fe3-47fadab29720.jpeg)
+
+
 # Netflix-Recommendation
 
 I am excited to share my first project, the Netflix Recommendation Model, with you all. This is my first attempt at creating a Machine learning model and I am still on my learning journey. I tried to make it as good as possible, but being my first project, I understand there is room for improvement. I plan on updating the model as I continue to learn and improve my skills. Am facing issue with Heruko but soon will solve that error.
